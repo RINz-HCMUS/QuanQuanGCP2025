@@ -1,10 +1,10 @@
-# Task 1. Create an API key
+## Task 1. Create an API key
 1. In the Google Cloud Console, navigate to APIs & Services > Credentials.
 2. Click + Create Credentials and select API Key.
 3. A dialog will appear showing your new API key. 
 4. Copy this key and save it, as you will need to use it in the curl commands for the next tasks (e.g., using it as the value for the API_KEY environment variable or directly in the URL).
 
-# Task 2. Create synthetic speech from text using the Text-to-Speech API
+## Task 2. Create synthetic speech from text using the Text-to-Speech API
 1. Connect to VM via SSH
 2. Create the file *synthesize-text.json*
 3. Call the Text-to-Speech API:
