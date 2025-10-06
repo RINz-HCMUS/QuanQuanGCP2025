@@ -41,7 +41,7 @@ title_line_1	|Plain text|	Required once
 - title_line_1 = DETERMINING HIGH VALUE
 
 ### The labeled patent document should look like this when complete:
-<img label.png>
+![The labeled patent document](label.png)
 
 # Task 6. Assign an annotated document to the training set
 - Assign the us_001 document to the training set.
