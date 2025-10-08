@@ -48,7 +48,7 @@ curl -X POST \
 2. Call the Detection API:
 `
 curl -X POST \
--H "X-Goog-Api-Key: AIzaSyB-_DNPoR3Yl6IM80mcMDLNZY9fq7NJGGY" \
+-H "X-Goog-Api-Key:  <API_KEY>" \
 -H "Content-Type: application/json; charset=utf-8" \
 -d @detect-request.json \
 "https://translation.googleapis.com/language/translate/v2/detect" > detection_response.txt
