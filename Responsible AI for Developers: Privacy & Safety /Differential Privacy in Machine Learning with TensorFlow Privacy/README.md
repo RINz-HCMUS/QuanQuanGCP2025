@@ -1,7 +1,7 @@
 ## Lab Instructions and Tasks
 
 ### Task 0. Setup and Requirements
-  **Enable the Necessary APIs:**
+ 1. **Enable the Necessary APIs:**
     * **Enable the Notebooks API:**
         * In the Google Cloud Console, on the **Navigation menu**, click **APIs & Services > Library**.
         * Search for `Notebooks API` and press **ENTER**.
